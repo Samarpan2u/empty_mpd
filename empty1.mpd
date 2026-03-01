@@ -1,0 +1,6 @@
+<MPD xmlns="urn:mpeg:dash:schema:mpd:2011" type="static">
+  <Period>
+    <AdaptationSet mimeType="video/mp4">
+    </AdaptationSet>
+  </Period>
+</MPD>
